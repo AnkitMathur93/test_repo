@@ -44,230 +44,230 @@ Variables which are mean and StandardDeviation of the measurements are included 
 Each record in the tidy dataset are average of each variable for each activity and each subject. 
 
 ===================================================================
-####Following is the list of the column fields(variables) of the dataset.
+###Following is the list of the column fields(variables) of the dataset.
 
-###Subject_Id
+####Subject_Id
 
 
 
 
 
 
-###Activity_Id
+####Activity_Id
 
 
 
 
 
 
-###Activity_Label
+####Activity_Label
 
 
 
 
 
 
-###tBodyAccelerationMean_Xaxis
+####tBodyAccelerationMean_Xaxis
 
 
 
 
 
 
-###tBodyAccelerationMean_Yaxis
+####tBodyAccelerationMean_Yaxis
 
 
 
 
 
 
-###tBodyAccelerationMean_Zaxis
+####tBodyAccelerationMean_Zaxis
 
 
 
 
 
 
-###tGravityAccelerationMean_Xaxis
+####tGravityAccelerationMean_Xaxis
 
 
 
 
 
 
-###tGravityAccelerationMean_Yaxis
+####tGravityAccelerationMean_Yaxis
 
 
 
 
 
 
-###tGravityAccelerationMean_Zaxis
+####tGravityAccelerationMean_Zaxis
 
 
 
 
 
 
-###tBodyAccelerationJerkMean_Xaxis
+####tBodyAccelerationJerkMean_Xaxis
 
 
 
 
 
 
-###tBodyAccelerationJerkMean_Yaxis
+####tBodyAccelerationJerkMean_Yaxis
 
 
 
 
 
 
-###tBodyAccelerationJerkMean_Zaxis
+####tBodyAccelerationJerkMean_Zaxis
 
 
 
 
 
 
-###tBodyGyroMean_Xaxis
+####tBodyGyroMean_Xaxis
 
 
 
 
 
 
-###tBodyGyroMean_Yaxis
+####tBodyGyroMean_Yaxis
 
 
 
 
 
-###tBodyGyroMean_Zaxis
+####tBodyGyroMean_Zaxis
 
 
 
 
 
-###tBodyGyroJerkMean_Xaxis
+####tBodyGyroJerkMean_Xaxis
 
 
 
 
 
-###tBodyGyroJerkMean_Yaxis
+####tBodyGyroJerkMean_Yaxis
 
 
 
 
 
-###tBodyGyroJerkMean_Zaxis
+####tBodyGyroJerkMean_Zaxis
 
 
 
 
 
-###tBodyAccelerationMagMean
+####tBodyAccelerationMagMean
 
 
 
 
 
-###tGravityAccelerationMagMean
+####tGravityAccelerationMagMean
 
 
 
 
 
-###tBodyAccelerationJerkMagMean
+####tBodyAccelerationJerkMagMean
 
 
 
 
 
-###tBodyGyroMagMean
+####tBodyGyroMagMean
 
 
 
 
 
-###tBodyGyroJerkMagMean
+####tBodyGyroJerkMagMean
 
 
 
 
 
-###fBodyAccelerationMean_Xaxis
+####fBodyAccelerationMean_Xaxis
 
 
 
 
 
 
-###fBodyAccelerationMean_Yaxis
+####fBodyAccelerationMean_Yaxis
 
 
 
 
 
 
-###fBodyAccelerationMean_Zaxis
+####fBodyAccelerationMean_Zaxis
 
 
 
 
 
 
-###fBodyAccelerationJerkMean_Xaxis
+####fBodyAccelerationJerkMean_Xaxis
 
 
 
 
 
 
-###fBodyAccelerationJerkMean_Yaxis
+####fBodyAccelerationJerkMean_Yaxis
 
 
 
 
 
 
-###fBodyAccelerationJerkMean_Zaxis
+####fBodyAccelerationJerkMean_Zaxis
 
 
 
 
 
 
-###fBodyGyroMean_Xaxis
+####fBodyGyroMean_Xaxis
 
 
 
 
 
 
-###fBodyGyroMean_Yaxis
+####fBodyGyroMean_Yaxis
 
 
 
 
 
 
-###fBodyGyroMean_Zaxis
+####fBodyGyroMean_Zaxis
 
 
 
 
 
 
-###fBodyAccelerationMagMean
+####fBodyAccelerationMagMean
 
 
 
 
 
 
-###fBodyBodyAccelerationJerkMagMean
+####fBodyBodyAccelerationJerkMagMean
 
 
 
@@ -275,42 +275,42 @@ Each record in the tidy dataset are average of each variable for each activity a
 
 
 
-###fBodyBodyGyroMagMean
+####fBodyBodyGyroMagMean
 
 
 
 
 
 
-###fBodyBodyGyroJerkMagMean
+####fBodyBodyGyroJerkMagMean
 
 
 
 
 
 
-###tBodyAccelerationStd_Xaxis
+####tBodyAccelerationStd_Xaxis
 
 
 
 
 
 
-###tBodyAccelerationStd_Yaxis
+####tBodyAccelerationStd_Yaxis
 
 
 
 
 
 
-###tBodyAccelerationStd_Zaxis
+####tBodyAccelerationStd_Zaxis
 
 
 
 
 
 
-###tGravityAccelerationStd_Xaxis
+####tGravityAccelerationStd_Xaxis
 
 
 
@@ -318,63 +318,63 @@ Each record in the tidy dataset are average of each variable for each activity a
 
 
 
-###tGravityAccelerationStd_Yaxis
+####tGravityAccelerationStd_Yaxis
 
 
 
 
 
 
-###tGravityAccelerationStd_Zaxis
+####tGravityAccelerationStd_Zaxis
 
 
 
 
 
 
-###tBodyAccelerationJerkStd_Xaxis
+####tBodyAccelerationJerkStd_Xaxis
 
 
 
 
 
 
-###tBodyAccelerationJerkStd_Yaxis
+####tBodyAccelerationJerkStd_Yaxis
 
 
 
 
 
 
-###tBodyAccelerationJerkStd_Zaxis
+####tBodyAccelerationJerkStd_Zaxis
 
 
 
 
 
 
-###tBodyGyroStd_Xaxis
+####tBodyGyroStd_Xaxis
 
 
 
 
 
 
-###tBodyGyroStd_Yaxis
+####tBodyGyroStd_Yaxis
 
 
 
 
 
 
-###tBodyGyroStd_Zaxis
+####tBodyGyroStd_Zaxis
 
 
 
 
 
 
-###tBodyGyroJerkStd_Xaxis
+####tBodyGyroJerkStd_Xaxis
 
 
 
@@ -382,7 +382,7 @@ Each record in the tidy dataset are average of each variable for each activity a
 
 
 
-###tBodyGyroJerkStd_Yaxis
+####tBodyGyroJerkStd_Yaxis
 
 
 
@@ -390,7 +390,7 @@ Each record in the tidy dataset are average of each variable for each activity a
 
 
 
-###tBodyGyroJerkStd_Zaxis
+####tBodyGyroJerkStd_Zaxis
 
 
 
@@ -398,7 +398,7 @@ Each record in the tidy dataset are average of each variable for each activity a
 
 
 
-###tBodyAccelerationMagStd
+####tBodyAccelerationMagStd
 
 
 
@@ -406,7 +406,7 @@ Each record in the tidy dataset are average of each variable for each activity a
 
 
 
-###tGravityAccelerationMagStd
+####tGravityAccelerationMagStd
 
 
 
@@ -414,7 +414,7 @@ Each record in the tidy dataset are average of each variable for each activity a
 
 
 
-###tBodyAccelerationJerkMagStd
+####tBodyAccelerationJerkMagStd
 
 
 
@@ -422,7 +422,7 @@ Each record in the tidy dataset are average of each variable for each activity a
 
 
 
-###tBodyGyroMagStd
+####tBodyGyroMagStd
 
 
 
@@ -430,7 +430,7 @@ Each record in the tidy dataset are average of each variable for each activity a
 
 
 
-###tBodyGyroJerkMagStd
+####tBodyGyroJerkMagStd
 
 
 
@@ -438,7 +438,7 @@ Each record in the tidy dataset are average of each variable for each activity a
 
 
 
-###fBodyAccelerationStd_Xaxis
+####fBodyAccelerationStd_Xaxis
 
 
 
@@ -446,14 +446,14 @@ Each record in the tidy dataset are average of each variable for each activity a
 
 
 
-###fBodyAccelerationStd_Yaxis
+####fBodyAccelerationStd_Yaxis
 
 
 
 
 
 
-###fBodyAccelerationStd_Zaxis
+####fBodyAccelerationStd_Zaxis
 
 
 
@@ -461,67 +461,67 @@ Each record in the tidy dataset are average of each variable for each activity a
 
 
 
-###fBodyAccelerationJerkStd_Xaxis
+####fBodyAccelerationJerkStd_Xaxis
 
 
 
 
 
 
-###fBodyAccelerationJerkStd_Yaxis
+####fBodyAccelerationJerkStd_Yaxis
 
 
 
 
 
 
-###fBodyAccelerationJerkStd_Zaxis
+####fBodyAccelerationJerkStd_Zaxis
 
 
 
 
 
 
-###fBodyGyroStd_Xaxis
+####fBodyGyroStd_Xaxis
 
 
 
 
 
 
-###fBodyGyroStd_Yaxis
+####fBodyGyroStd_Yaxis
 
 
 
 
 
 
-###fBodyGyroStd_Zaxis
+####fBodyGyroStd_Zaxis
 
 
 
 
 
 
-###fBodyAccelerationMagStd
+####fBodyAccelerationMagStd
 
 
 
 
 
 
-###fBodyBodyAccelerationJerkMagStd
+####fBodyBodyAccelerationJerkMagStd
 
 
 
 
 
 
-###fBodyBodyGyroMagStd
+####fBodyBodyGyroMagStd
 
 
 
 
 
 
-###fBodyBodyGyroJerkMagStd
+####fBodyBodyGyroJerkMagStd
