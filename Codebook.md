@@ -100,7 +100,7 @@ Each record in the tidy dataset are average of each variable for each activity a
 * Class Of Variable = Numeric
 * Variable Details = Mean of Gravity Acceleration in time domain along Y-axis
 * Variable Unit =  metre per second square(unit of g)
-* Range Of Values = 1 to 1
+* Range Of Values = -0.4798948429 to 0.956593814
 
 ####tGravityAccelerationMean_Zaxis
 
@@ -108,7 +108,7 @@ Each record in the tidy dataset are average of each variable for each activity a
 * Class Of Variable = Numeric
 * Variable Details = Mean of Gravity Acceleration in time domain along Z-axis
 * Variable Unit =  metre per second square(unit of g)
-* Range Of Values = 1 to 1
+* Range Of Values = -0.4950887203 to 0.9578730416
 
 ####tBodyAccelerationJerkMean_Xaxis
 
@@ -116,7 +116,7 @@ Each record in the tidy dataset are average of each variable for each activity a
 * Class Of Variable = Numeric
 * Variable Details = Mean of Body Jerk Acceleration in time domain along X-axis
 * Variable Unit =  metre per second square(unit of g)
-* Range Of Values = 1 to 1
+* Range Of Values = 0.0426880986 to 0.1301930438
 
 ####tBodyAccelerationJerkMean_Yaxis
 
@@ -124,7 +124,7 @@ Each record in the tidy dataset are average of each variable for each activity a
 * Class Of Variable = Numeric
 * Variable Details = Mean of Body Jerk Acceleration in time domain along Y-axis
 * Variable Unit =  metre per second square(unit of g)
-* Range Of Values = 1 to 1
+* Range Of Values = -0.0386872111 to 0.0568185862
 
 ####tBodyAccelerationJerkMean_Zaxis
 
@@ -133,7 +133,7 @@ Each record in the tidy dataset are average of each variable for each activity a
 * Class Of Variable = Numeric
 * Variable Details = Mean of Body Jerk Acceleration in time domain along Z-axis
 * Variable Unit =  metre per second square(unit of g)
-* Range Of Values = 1 to 1
+* Range Of Values = -0.0674583919 to 0.038053359
 
 ####tBodyGyroMean_Xaxis
 
@@ -141,7 +141,7 @@ Each record in the tidy dataset are average of each variable for each activity a
 * Class Of Variable = Numeric
 * Variable Details = Mean of Body angular velocity(data from gyroscope) in time domain along X-axis
 * Variable Unit =  rad per second(rad/s)
-* Range Of Values = 1 to 1
+* Range Of Values = -0.2057754273 to 0.1927044759
 
 ####tBodyGyroMean_Yaxis
 
@@ -149,7 +149,7 @@ Each record in the tidy dataset are average of each variable for each activity a
 * Class Of Variable = Numeric
 * Variable Details = Mean of Body angular velocity(data from gyroscope) in time domain along Y-axis
 * Variable Unit =  rad per second(rad/s)
-* Range Of Values = 1 to 1
+* Range Of Values = -0.20420535608 to 0.02747075566
 
 ####tBodyGyroMean_Zaxis
 
@@ -157,7 +157,7 @@ Each record in the tidy dataset are average of each variable for each activity a
 * Class Of Variable = Numeric
 * Variable Details = Mean of Body angular velocity(data from gyroscope) in time domain along Z-axis
 * Variable Unit =  rad per second(rad/s)
-* Range Of Values = 1 to 1
+* Range Of Values = -0.07245460258 to 0.17910205824
 
 ####tBodyGyroJerkMean_Xaxis
 
@@ -165,7 +165,7 @@ Each record in the tidy dataset are average of each variable for each activity a
 * Class Of Variable = Numeric
 * Variable Details = Mean of Body Jerk angular velocity(data from gyroscope) in time domain along X-axis
 * Variable Unit =  rad per second(rad/s)
-* Range Of Values = 1 to 1
+* Range Of Values = -0.1572125391 to -0.022091626506
 
 ####tBodyGyroJerkMean_Yaxis
 
@@ -173,7 +173,7 @@ Each record in the tidy dataset are average of each variable for each activity a
 * Class Of Variable = Numeric
 * Variable Details = Mean of Body Jerk angular velocity(data from gyroscope) in time domain along Y-axis
 * Variable Unit =  rad per second(rad/s)
-* Range Of Values = 1 to 1
+* Range Of Values = -0.0768089915 to -0.0132022768
 
 ####tBodyGyroJerkMean_Zaxis
 
@@ -181,7 +181,7 @@ Each record in the tidy dataset are average of each variable for each activity a
 * Class Of Variable = Numeric
 * Variable Details = Mean of Body Jerk angular velocity(data from gyroscope) in time domain along Z-axis
 * Variable Unit =  rad per second(rad/s)
-* Range Of Values = 1 to 1
+* Range Of Values = -0.09249985313 to -0.0069406638
 
 
 ####tBodyAccelerationMagMean
@@ -190,7 +190,7 @@ Each record in the tidy dataset are average of each variable for each activity a
 * Class Of Variable = Numeric
 * Variable Details = Mean of Magnitude of Body Acceleration in time domain
 * Variable Unit =  metre per second square(unit of g)
-* Range Of Values = 1 to 1
+* Range Of Values = -0.98649319666 to 0.6446043251
 
 ####tGravityAccelerationMagMean
 
@@ -198,7 +198,7 @@ Each record in the tidy dataset are average of each variable for each activity a
 * Class Of Variable = Numeric
 * Variable Details = Mean of Magnitude of Gravity Acceleration in time domain
 * Variable Unit =  metre per second square(unit of g)
-* Range Of Values = 1 to 1
+* Range Of Values = -0.98649319666 to 0.64460432512
 
 ####tBodyAccelerationJerkMagMean
 
@@ -206,7 +206,7 @@ Each record in the tidy dataset are average of each variable for each activity a
 * Class Of Variable = Numeric
 * Variable Details = Mean of Magnitude of Body Jerk Acceleration in time domain
 * Variable Unit =  metre per second square(unit of g)
-* Range Of Values = 1 to 1
+* Range Of Values = -0.992814715 to 0.4344904009
 
 ####tBodyGyroMagMean
 
@@ -214,7 +214,7 @@ Each record in the tidy dataset are average of each variable for each activity a
 * Class Of Variable = Numeric
 * Variable Details = Mean of Magnitude of Body angular velocity(data from gyroscope) in time domain
 * Variable Unit =  rad per second(rad/s)
-* Range Of Values = 1 to 1
+* Range Of Values = -0.9807408467 to 0.4180046086
 
 ####tBodyGyroJerkMagMean
 
@@ -222,7 +222,7 @@ Each record in the tidy dataset are average of each variable for each activity a
 * Class Of Variable = Numeric
 * Variable Details = Mean of Magnitude of Body Jerk angular velocity(data from gyroscope) in time domain
 * Variable Unit =  rad per second(rad/s)
-* Range Of Values = 1 to 1
+* Range Of Values = -0.9973225268 to 0.08758166182
 
 ####fBodyAccelerationMean_Xaxis
 
@@ -230,7 +230,7 @@ Each record in the tidy dataset are average of each variable for each activity a
 * Class Of Variable = Numeric
 * Variable Details = Mean of Body Acceleration in frequency domain along X-axis
 * Variable Unit =  Hertz (Hz)
-* Range Of Values = 1 to 1
+* Range Of Values = -0.99524993264 to 0.53701202205
 
 ####fBodyAccelerationMean_Yaxis
 
@@ -238,7 +238,7 @@ Each record in the tidy dataset are average of each variable for each activity a
 * Class Of Variable = Numeric
 * Variable Details = Mean of Body Acceleration in frequency domain along Y-axis
 * Variable Unit =  Hertz (Hz)
-* Range Of Values = 1 to 1
+* Range Of Values = -0.989034304 to 0.5241876868
 
 ####fBodyAccelerationMean_Zaxis
 
@@ -246,7 +246,7 @@ Each record in the tidy dataset are average of each variable for each activity a
 * Class Of Variable = Numeric
 * Variable Details = Mean of Body Acceleration in frequency domain along Z-axis
 * Variable Unit =  Hertz (Hz)
-* Range Of Values = 1 to 1
+* Range Of Values = -0.98947392666 to 0.28073595220
 
 
 ####fBodyAccelerationJerkMean_Xaxis
@@ -255,7 +255,7 @@ Each record in the tidy dataset are average of each variable for each activity a
 * Class Of Variable = Numeric
 * Variable Details = Mean of Body Jerk Acceleration in frequency domain along X-axis
 * Variable Unit =  Hertz (Hz)
-* Range Of Values = 1 to 1
+* Range Of Values = 0.9946307973 to 0.47431725605
 
 ####fBodyAccelerationJerkMean_Yaxis
 
@@ -263,7 +263,7 @@ Each record in the tidy dataset are average of each variable for each activity a
 * Class Of Variable = Numeric
 * Variable Details = Mean of Body Jerk Acceleration in frequency domain along Y-axis
 * Variable Unit =  Hertz (Hz)
-* Range Of Values = 1 to 1
+* Range Of Values = -0.98939882391 to 0.2767168533
 
 ####fBodyAccelerationJerkMean_Zaxis
 
@@ -271,7 +271,7 @@ Each record in the tidy dataset are average of each variable for each activity a
 * Class Of Variable = Numeric
 * Variable Details = Mean of Body Jerk Acceleration in frequency domain along Z-axis
 * Variable Unit =  Hertz (Hz)
-* Range Of Values = 1 to 1
+* Range Of Values = -0.992018447 to 0.1577756923
 
 ####fBodyGyroMean_Xaxis
 
@@ -279,7 +279,7 @@ Each record in the tidy dataset are average of each variable for each activity a
 * Class Of Variable = Numeric
 * Variable Details = Mean of Body angular velocity(data from gyroscope) in frequency domain along X-axis
 * Variable Unit =  Hertz (Hz)
-* Range Of Values = 1 to 1
+* Range Of Values = -0.99312260884 to 0.474962448
 
 ####fBodyGyroMean_Yaxis
 
@@ -287,7 +287,7 @@ Each record in the tidy dataset are average of each variable for each activity a
 * Class Of Variable = Numeric
 * Variable Details = Mean of Body angular velocity(data from gyroscope) in frequency domain along Y-axis
 * Variable Unit =  Hertz (Hz)
-* Range Of Values = 1 to 1
+* Range Of Values = -0.994025488 to 0.32881701008
 
 ####fBodyGyroMean_Zaxis
 
@@ -295,7 +295,7 @@ Each record in the tidy dataset are average of each variable for each activity a
 * Class Of Variable = Numeric
 * Variable Details = Mean of Body angular velocity(data from gyroscope) in frequency domain along Z-axis
 * Variable Unit =  Hertz (Hz)
-* Range Of Values = 1 to 1
+* Range Of Values = -0.985957788 to 0.4924143798
 
 
 ####fBodyAccelerationMagMean
@@ -304,7 +304,7 @@ Each record in the tidy dataset are average of each variable for each activity a
 * Class Of Variable = Numeric
 * Variable Details = Mean of Magnitude of Body Acceleration in frequency domain
 * Variable Unit =  Hertz (Hz)
-* Range Of Values = 1 to 1
+* Range Of Values = -0.9868006453 to 0.5866375507
 
 
 ####fBodyAccelerationJerkMagMean
@@ -313,7 +313,7 @@ Each record in the tidy dataset are average of each variable for each activity a
 * Class Of Variable = Numeric
 * Variable Details = Mean of Magnitude of Body Jerk Acceleration in frequency domain
 * Variable Unit =  Hertz (Hz)
-* Range Of Values = 1 to 1
+* Range Of Values = -0.9939982757 to 0.53840484612
 
 ####fBodyGyroMagMean
 
@@ -321,7 +321,7 @@ Each record in the tidy dataset are average of each variable for each activity a
 * Class Of Variable = Numeric
 * Variable Details = Mean of Magnitude of Body angular velocity(data from gyroscope) in frequency domain
 * Variable Unit =  Hertz (Hz)
-* Range Of Values = 1 to 1
+* Range Of Values = 0.986535242105 to 0.2039797648
 
 ####fBodyGyroJerkMagMean
 
@@ -329,7 +329,7 @@ Each record in the tidy dataset are average of each variable for each activity a
 * Class Of Variable = Numeric
 * Variable Details = Mean of Magnitude of Body Jerk angular velocity(data from gyroscope) in frequency domain
 * Variable Unit =  Hertz (Hz)
-* Range Of Values = 1 to 1
+* Range Of Values = -0.997617389 to 0.1466185690
 
 
 ####tBodyAccelerationStd_Xaxis
@@ -338,7 +338,7 @@ Each record in the tidy dataset are average of each variable for each activity a
 * Class Of Variable = Numeric
 * Variable Details = Standard Deviation of Body Acceleration in time domain along X-axis
 * Variable Unit =  metre per second square(unit of g)
-* Range Of Values = 0.22159824394 to 0.3014610196
+* Range Of Values = -0.9960686353 to 0.62691707051
 
 ####tBodyAccelerationStd_Yaxis
 
@@ -346,7 +346,7 @@ Each record in the tidy dataset are average of each variable for each activity a
 * Class Of Variable = Numeric
 * Variable Details = Standard deviation of Body Acceleration in time domain along Y-axis
 * Variable Unit =  metre per second square(unit of g)
-* Range Of Values = -0.040513953 to -0.00130828
+* Range Of Values = -0.9902409466 to 0.6169370153
 
 ####tBodyAccelerationStd_Zaxis
 
@@ -354,7 +354,7 @@ Each record in the tidy dataset are average of each variable for each activity a
 * Class Of Variable = Numeric
 * Variable Details = Standard deviation of Body Acceleration in time domain along Z-axis
 * Variable Unit =  metre per second square(unit of g)
-* Range Of Values = -0.1525138995 to -0.075378468
+* Range Of Values = -0.98765866230 to 0.609017879074
 
 ####tGravityAccelerationStd_Xaxis
 
@@ -362,7 +362,7 @@ Each record in the tidy dataset are average of each variable for each activity a
 * Class Of Variable = Numeric
 * Variable Details = Standard deviation of Gravity Acceleration in time domain along X-axis
 * Variable Unit =  metre per second square(unit of g)
-* Range Of Values = -0.680043155 to 0.974508732
+* Range Of Values = -0.99676422738 to -0.8295549478
 
 ####tGravityAccelerationStd_Yaxis
 
@@ -370,7 +370,7 @@ Each record in the tidy dataset are average of each variable for each activity a
 * Class Of Variable = Numeric
 * Variable Details = Standard deviation of Gravity Acceleration in time domain along Y-axis
 * Variable Unit =  metre per second square(unit of g)
-* Range Of Values = 1 to 1
+* Range Of Values = -0.9942476488 to -0.6435783614
 
 ####tGravityAccelerationStd_Zaxis
 
@@ -378,7 +378,7 @@ Each record in the tidy dataset are average of each variable for each activity a
 * Class Of Variable = Numeric
 * Variable Details = Standard deviation of Gravity Acceleration in time domain along Z-axis
 * Variable Unit =  metre per second square(unit of g)
-* Range Of Values = 1 to 1
+* Range Of Values = -0.9909572495 to -0.610161166
 
 ####tBodyAccelerationJerkStd_Xaxis
 
@@ -386,7 +386,7 @@ Each record in the tidy dataset are average of each variable for each activity a
 * Class Of Variable = Numeric
 * Variable Details = Standard deviation of Body Jerk Acceleration in time domain along X-axis
 * Variable Unit =  metre per second square(unit of g)
-* Range Of Values = 1 to 1
+* Range Of Values = -0.9946045422 to 0.54427303730
 
 ####tBodyAccelerationJerkStd_Yaxis
 
@@ -394,7 +394,7 @@ Each record in the tidy dataset are average of each variable for each activity a
 * Class Of Variable = Numeric
 * Variable Details = Standard deviation of Body Jerk Acceleration in time domain along Y-axis
 * Variable Unit =  metre per second square(unit of g)
-* Range Of Values = 1 to 1
+* Range Of Values = -0.98951356565 to 0.35530671691
 
 ####tBodyAccelerationJerkStd_Zaxis
 
@@ -403,7 +403,7 @@ Each record in the tidy dataset are average of each variable for each activity a
 * Class Of Variable = Numeric
 * Variable Details = Standard deviation of Body Jerk Acceleration in time domain along Z-axis
 * Variable Unit =  metre per second square(unit of g)
-* Range Of Values = 1 to 1
+* Range Of Values = -0.9932883133 to 0.0310157077
 
 ####tBodyGyroStd_Xaxis
 
@@ -411,7 +411,7 @@ Each record in the tidy dataset are average of each variable for each activity a
 * Class Of Variable = Numeric
 * Variable Details = Standard deviation of Body angular velocity(data from gyroscope) in time domain along X-axis
 * Variable Unit =  rad per second(rad/s)
-* Range Of Values = 1 to 1
+* Range Of Values = -0.9942765913 to 0.2676572193
 
 ####tBodyGyroStd_Yaxis
 
@@ -419,7 +419,7 @@ Each record in the tidy dataset are average of each variable for each activity a
 * Class Of Variable = Numeric
 * Variable Details = Standard deviation of Body angular velocity(data from gyroscope) in time domain along Y-axis
 * Variable Unit =  rad per second(rad/s)
-* Range Of Values = 1 to 1
+* Range Of Values = -0.99421047191 to 0.47651871444
 
 ####tBodyGyroStd_Zaxis
 
@@ -427,7 +427,7 @@ Each record in the tidy dataset are average of each variable for each activity a
 * Class Of Variable = Numeric
 * Variable Details = Standard deviation of Body angular velocity(data from gyroscope) in time domain along Z-axis
 * Variable Unit =  rad per second(rad/s)
-* Range Of Values = 1 to 1
+* Range Of Values = -0.985538363 to 0.5648758181
 
 ####tBodyGyroJerkStd_Xaxis
 
@@ -435,7 +435,7 @@ Each record in the tidy dataset are average of each variable for each activity a
 * Class Of Variable = Numeric
 * Variable Details = Standard deviation of Body Jerk angular velocity(data from gyroscope) in time domain along X-axis
 * Variable Unit =  rad per second(rad/s)
-* Range Of Values = 1 to 1
+* Range Of Values = -0.9965425405 to 0.1791486496
 
 ####tBodyGyroJerkStd_Yaxis
 
@@ -443,7 +443,7 @@ Each record in the tidy dataset are average of each variable for each activity a
 * Class Of Variable = Numeric
 * Variable Details = Standard deviation of Body Jerk angular velocity(data from gyroscope) in time domain along Y-axis
 * Variable Unit =  rad per second(rad/s)
-* Range Of Values = 1 to 1
+* Range Of Values = -0.997081575 to 0.2959459261
 
 ####tBodyGyroJerkStd_Zaxis
 
@@ -451,7 +451,7 @@ Each record in the tidy dataset are average of each variable for each activity a
 * Class Of Variable = Numeric
 * Variable Details = Standard deviation of Body Jerk angular velocity(data from gyroscope) in time domain along Z-axis
 * Variable Unit =  rad per second(rad/s)
-* Range Of Values = 1 to 1
+* Range Of Values = -0.995380794 to 0.193206498
 
 
 ####tBodyAccelerationMagStd
@@ -460,7 +460,7 @@ Each record in the tidy dataset are average of each variable for each activity a
 * Class Of Variable = Numeric
 * Variable Details = Standard deviation of Magnitude of Body Acceleration in time domain
 * Variable Unit =  metre per second square(unit of g)
-* Range Of Values = 1 to 1
+* Range Of Values = -0.986464542 to 0.4284059226
 
 ####tGravityAccelerationMagStd
 
@@ -468,7 +468,7 @@ Each record in the tidy dataset are average of each variable for each activity a
 * Class Of Variable = Numeric
 * Variable Details = Standard deviation of Magnitude of Gravity Acceleration in time domain
 * Variable Unit =  metre per second square(unit of g)
-* Range Of Values = 1 to 1
+* Range Of Values = -0.986464542 to 0.428405922
 
 ####tBodyAccelerationJerkMagStd
 
@@ -476,7 +476,7 @@ Each record in the tidy dataset are average of each variable for each activity a
 * Class Of Variable = Numeric
 * Variable Details = Standard deviation of Magnitude of Body Jerk Acceleration in time domain
 * Variable Unit =  metre per second square(unit of g)
-* Range Of Values = 1 to 1
+* Range Of Values = -0.994646916 to 0.450612065
 
 ####tBodyGyroMagStd
 
@@ -484,7 +484,7 @@ Each record in the tidy dataset are average of each variable for each activity a
 * Class Of Variable = Numeric
 * Variable Details = Standard deviation of Magnitude of Body angular velocity(data from gyroscope) in time domain
 * Variable Unit =  rad per second(rad/s)
-* Range Of Values = 1 to 1
+* Range Of Values = -0.9813726756 to 0.2999759798
 
 ####tBodyGyroJerkMagStd
 
@@ -492,7 +492,7 @@ Each record in the tidy dataset are average of each variable for each activity a
 * Class Of Variable = Numeric
 * Variable Details = Standard deviation of Magnitude of Body Jerk angular velocity(data from gyroscope) in time domain
 * Variable Unit =  rad per second(rad/s)
-* Range Of Values = 1 to 1
+* Range Of Values = -0.9976660715 to 0.250173204
 
 ####fBodyAccelerationStd_Xaxis
 
@@ -500,7 +500,7 @@ Each record in the tidy dataset are average of each variable for each activity a
 * Class Of Variable = Numeric
 * Variable Details = Standard deviation of Body Acceleration in frequency domain along X-axis
 * Variable Unit =  Hertz (Hz)
-* Range Of Values = 1 to 1
+* Range Of Values = -0.9966045703 to 0.6585065433
 
 ####fBodyAccelerationStd_Yaxis
 
@@ -508,7 +508,7 @@ Each record in the tidy dataset are average of each variable for each activity a
 * Class Of Variable = Numeric
 * Variable Details = Standard deviation of Body Acceleration in frequency domain along Y-axis
 * Variable Unit =  Hertz (Hz)
-* Range Of Values = 1 to 1
+* Range Of Values = -0.990680395 to 0.560191344
 
 ####fBodyAccelerationStd_Zaxis
 
@@ -516,7 +516,7 @@ Each record in the tidy dataset are average of each variable for each activity a
 * Class Of Variable = Numeric
 * Variable Details = Standard deviation of Body Acceleration in frequency domain along Z-axis
 * Variable Unit =  Hertz (Hz)
-* Range Of Values = 1 to 1
+* Range Of Values = -0.9872248043 to 0.6871241637
 
 
 ####fBodyAccelerationJerkStd_Xaxis
@@ -525,7 +525,7 @@ Each record in the tidy dataset are average of each variable for each activity a
 * Class Of Variable = Numeric
 * Variable Details = Standard deviation of Body Jerk Acceleration in frequency domain along X-axis
 * Variable Unit =  Hertz (Hz)
-* Range Of Values = 1 to 1
+* Range Of Values = -0.9950737592 to 0.4768038874
 
 ####fBodyAccelerationJerkStd_Yaxis
 
@@ -533,7 +533,7 @@ Each record in the tidy dataset are average of each variable for each activity a
 * Class Of Variable = Numeric
 * Variable Details = Standard deviation of Body Jerk Acceleration in frequency domain along Y-axis
 * Variable Unit =  Hertz (Hz)
-* Range Of Values = 1 to 1
+* Range Of Values = -0.9904680827 to 0.34977128541
 
 ####fBodyAccelerationJerkStd_Zaxis
 
@@ -541,7 +541,7 @@ Each record in the tidy dataset are average of each variable for each activity a
 * Class Of Variable = Numeric
 * Variable Details = Standard deviation of Body Jerk Acceleration in frequency domain along Z-axis
 * Variable Unit =  Hertz (Hz)
-* Range Of Values = 1 to 1
+* Range Of Values = -0.993107759855 to -0.0062364752
 
 ####fBodyGyroStd_Xaxis
 
@@ -549,7 +549,7 @@ Each record in the tidy dataset are average of each variable for each activity a
 * Class Of Variable = Numeric
 * Variable Details = Standard deviation of Body angular velocity(data from gyroscope) in frequency domain along X-axis
 * Variable Unit =  Hertz (Hz)
-* Range Of Values = 1 to 1
+* Range Of Values = -0.994652185 to 0.1966132866
 
 ####fBodyGyroStd_Yaxis
 
@@ -557,7 +557,7 @@ Each record in the tidy dataset are average of each variable for each activity a
 * Class Of Variable = Numeric
 * Variable Details = Standard deviation of Body angular velocity(data from gyroscope) in frequency domain along Y-axis
 * Variable Unit =  Hertz (Hz)
-* Range Of Values = 1 to 1
+* Range Of Values = -0.9943530865 to 0.646233637
 
 ####fBodyGyroStd_Zaxis
 
@@ -565,7 +565,7 @@ Each record in the tidy dataset are average of each variable for each activity a
 * Class Of Variable = Numeric
 * Variable Details = Standard deviation of Body angular velocity(data from gyroscope) in frequency domain along Z-axis
 * Variable Unit =  Hertz (Hz)
-* Range Of Values = 1 to 1
+* Range Of Values = -0.98672527487 to 0.52245421631
 
 
 ####fBodyAccelerationMagStd
@@ -574,7 +574,7 @@ Each record in the tidy dataset are average of each variable for each activity a
 * Class Of Variable = Numeric
 * Variable Details = Standard deviation of Magnitude of Body Acceleration in frequency domain
 * Variable Unit =  Hertz (Hz)
-* Range Of Values = 1 to 1
+* Range Of Values = -0.987648484 to 0.1786845808
 
 
 ####fBodyAccelerationJerkMagStd
@@ -583,7 +583,7 @@ Each record in the tidy dataset are average of each variable for each activity a
 * Class Of Variable = Numeric
 * Variable Details = Standard deviation of Magnitude of Body Jerk Acceleration in frequency domain
 * Variable Unit =  Hertz (Hz)
-* Range Of Values = 1 to 1
+* Range Of Values = -0.9943666676 to 0.3163464153
 
 ####fBodyGyroMagStd
 
@@ -591,7 +591,7 @@ Each record in the tidy dataset are average of each variable for each activity a
 * Class Of Variable = Numeric
 * Variable Details = Standard deviation of Magnitude of Body angular velocity(data from gyroscope) in frequency domain
 * Variable Unit =  Hertz (Hz)
-* Range Of Values = 1 to 1
+* Range Of Values = -0.98146884169 to 0.23665966249
 
 ####fBodyGyroJerkMagStd
 
@@ -599,4 +599,6 @@ Each record in the tidy dataset are average of each variable for each activity a
 * Class Of Variable = Numeric
 * Variable Details = Standard deviation of Magnitude of Body Jerk angular velocity(data from gyroscope) in frequency domain
 * Variable Unit =  Hertz (Hz)
-* Range Of Values = 1 to 1
+* Range Of Values = -0.9975852305 to 0.28783461609
+
+========================================================================
