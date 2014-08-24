@@ -21,10 +21,13 @@ frequency components, therefore a filter with 0.3 Hz cutoff frequency was used. 
 calculating variables from the time and frequency domain. See 'features_info.txt' for more details. 
 
 For each record it is provided:
-======================================
+
+==================================================================
 
 * Triaxial acceleration from the accelerometer (total acceleration) and the estimated body acceleration.
 * Triaxial Angular velocity from the gyroscope. 
 * A 561-feature vector with time and frequency domain variables. 
 * Its activity label. 
 * An identifier of the subject who carried out the experiment.
+
+===================================================================
