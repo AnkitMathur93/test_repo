@@ -50,24 +50,24 @@ Each record in the tidy dataset are average of each variable for each activity a
 
 ####Subject_Id
 
-*Variable Index = 1
-*Class Of Variable = Integer
-*Variable Details = Id of the Volunteer who carried out the experiment. 
-*Range Of Values = 1 to 30
+* Variable Index = 1
+* Class Of Variable = Integer
+* Variable Details = Id of the Volunteer who carried out the experiment. 
+* Range Of Values = 1 to 30
 
 ####Activity_Label
 
-*Variable Index = 2
-*Class Of Variable = Character
-*Variable Details = Name of the  carried out the experiment. 
-*Range Of Values = 1 WALKING  WALKING_UPSTAIRS  WALKING_DOWNSTAIRS  SITTING  STANDING  LAYING
+* Variable Index = 2
+* Class Of Variable = Character
+* Variable Details = Name of the  carried out the experiment. 
+* Range Of Values = 1 WALKING  WALKING_UPSTAIRS  WALKING_DOWNSTAIRS  SITTING  STANDING  LAYING
 
 ####tBodyAccelerationMean_Xaxis
 
-*Variable Index = 1
-*Class Of Variable = Integer
-*Variable Details = Id of the Volunteer who carried out the experiment. 
-*Range Of Values = 1 to 30
+* Variable Index = 1
+* Class Of Variable = Integer
+* Variable Details = Id of the Volunteer who carried out the experiment. 
+* Range Of Values = 1 to 30
 
 ####tBodyAccelerationMean_Yaxis
 
