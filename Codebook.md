@@ -16,18 +16,33 @@ partitioned into two sets, where 70% of the volunteers was selected for generati
 
 The sensor signals (accelerometer and gyroscope) were pre-processed by applying noise filters and then sampled in fixed-width sliding windows 
 of 2.56 sec and 50% overlap (128 readings/window). The sensor acceleration signal, which has gravitational and body motion components, 
-was separated using a Butterworth low-pass filter into body acceleration and gravity. The gravitational force is assumed to have only low 
-frequency components, therefore a filter with 0.3 Hz cutoff frequency was used. From each window, a vector of features was obtained by 
-calculating variables from the time and frequency domain. See 'features_info.txt' for more details. 
-
-For each record it is provided:
+was separated using a Butter-worth low-pass filter into body acceleration and gravity. The gravitational force is assumed to have only low 
+frequency components, therefore a filter with 0.3 Hz cut-off frequency was used. From each window, a vector of features was obtained by 
+calculating variables from the time and frequency domain.
 
 ==================================================================
 
-* Triaxial acceleration from the accelerometer (total acceleration) and the estimated body acceleration.
-* Triaxial Angular velocity from the gyroscope. 
-* A 561-feature vector with time and frequency domain variables. 
-* Its activity label. 
-* An identifier of the subject who carried out the experiment.
+The features selected for this database come from the accelerometer and gyroscope 3-axial raw signals tAcc-XYZ and tGyro-XYZ. These time domain signals 
+(prefix 't' to denote time) were captured at a constant rate of 50 Hz. Then they were filtered using a median filter and a 3rd order low pass 
+Butter-worth filter with a corner frequency of 20 Hz to remove noise. Similarly, the acceleration signal was then separated into body and 
+gravity acceleration signals (tBodyAcc-XYZ and tGravityAcc-XYZ) using another low pass Butter-worth filter with a corner frequency of 0.3 Hz. 
+
+Subsequently, the body linear acceleration and angular velocity were derived in time to obtain Jerk signals (tBodyAccJerk-XYZ and tBodyGyroJerk-XYZ). 
+Also the magnitude of these three-dimensional signals were calculated using the Euclidean norm (tBodyAccMag, tGravityAccMag, tBodyAccJerkMag, tBodyGyroMag,
+ tBodyGyroJerkMag). 
+
+Finally a Fast Fourier Transform (FFT) was applied to some of these signals producing fBodyAcc-XYZ, fBodyAccJerk-XYZ, fBodyGyro-XYZ, 
+fBodyAccJerkMag, fBodyGyroMag, fBodyGyroJerkMag. (Note the 'f' to indicate frequency domain signals). 
+
+These signals were used to estimate variables of the 561 variable feature vector 
+
 
 ===================================================================
+
+The Tidy data set that is returned by the run_analysis.R extracts a subset of the above mentioned measurements.
+Variables which are mean and StandardDeviation of the measurements are included in the dataset.
+Each record in the tidy dataset are average of each variable for each activity and each subject. 
+
+===================================================================
+Following is the list of the column fields(variables) of the dataset.
+
