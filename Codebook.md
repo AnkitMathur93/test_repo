@@ -88,7 +88,7 @@ Each record in the tidy dataset are average of each variable for each activity a
 
 ####tGravityAccelerationMean_Xaxis
 
-* Variable Index = 5
+* Variable Index = 6
 * Class Of Variable = Numeric
 * Variable Details = Mean of Gravity Acceleration in time domain along X-axis
 * Variable Unit =  metre per second square(unit of g)
@@ -96,7 +96,7 @@ Each record in the tidy dataset are average of each variable for each activity a
 
 ####tGravityAccelerationMean_Yaxis
 
-* Variable Index = 6
+* Variable Index = 7
 * Class Of Variable = Numeric
 * Variable Details = Mean of Gravity Acceleration in time domain along Y-axis
 * Variable Unit =  metre per second square(unit of g)
@@ -104,7 +104,7 @@ Each record in the tidy dataset are average of each variable for each activity a
 
 ####tGravityAccelerationMean_Zaxis
 
-* Variable Index = 7
+* Variable Index = 8
 * Class Of Variable = Numeric
 * Variable Details = Mean of Gravity Acceleration in time domain along Z-axis
 * Variable Unit =  metre per second square(unit of g)
@@ -112,7 +112,7 @@ Each record in the tidy dataset are average of each variable for each activity a
 
 ####tBodyAccelerationJerkMean_Xaxis
 
-* Variable Index = 8
+* Variable Index = 9
 * Class Of Variable = Numeric
 * Variable Details = Mean of Body Jerk Acceleration in time domain along X-axis
 * Variable Unit =  metre per second square(unit of g)
@@ -120,7 +120,7 @@ Each record in the tidy dataset are average of each variable for each activity a
 
 ####tBodyAccelerationJerkMean_Yaxis
 
-* Variable Index = 9
+* Variable Index = 10
 * Class Of Variable = Numeric
 * Variable Details = Mean of Body Jerk Acceleration in time domain along Y-axis
 * Variable Unit =  metre per second square(unit of g)
@@ -129,7 +129,7 @@ Each record in the tidy dataset are average of each variable for each activity a
 ####tBodyAccelerationJerkMean_Zaxis
 
 
-* Variable Index = 10
+* Variable Index = 11
 * Class Of Variable = Numeric
 * Variable Details = Mean of Body Jerk Acceleration in time domain along Z-axis
 * Variable Unit =  metre per second square(unit of g)
@@ -137,7 +137,7 @@ Each record in the tidy dataset are average of each variable for each activity a
 
 ####tBodyGyroMean_Xaxis
 
-* Variable Index = 11
+* Variable Index = 12
 * Class Of Variable = Numeric
 * Variable Details = Mean of Body angular velocity(data from gyroscope) in time domain along X-axis
 * Variable Unit =  rad per second(rad/s)
@@ -145,7 +145,7 @@ Each record in the tidy dataset are average of each variable for each activity a
 
 ####tBodyGyroMean_Yaxis
 
-* Variable Index = 12
+* Variable Index = 13
 * Class Of Variable = Numeric
 * Variable Details = Mean of Body angular velocity(data from gyroscope) in time domain along Y-axis
 * Variable Unit =  rad per second(rad/s)
@@ -153,7 +153,7 @@ Each record in the tidy dataset are average of each variable for each activity a
 
 ####tBodyGyroMean_Zaxis
 
-* Variable Index = 13
+* Variable Index = 14
 * Class Of Variable = Numeric
 * Variable Details = Mean of Body angular velocity(data from gyroscope) in time domain along Z-axis
 * Variable Unit =  rad per second(rad/s)
@@ -161,7 +161,7 @@ Each record in the tidy dataset are average of each variable for each activity a
 
 ####tBodyGyroJerkMean_Xaxis
 
-* Variable Index = 14
+* Variable Index = 15
 * Class Of Variable = Numeric
 * Variable Details = Mean of Body Jerk angular velocity(data from gyroscope) in time domain along X-axis
 * Variable Unit =  rad per second(rad/s)
@@ -169,7 +169,7 @@ Each record in the tidy dataset are average of each variable for each activity a
 
 ####tBodyGyroJerkMean_Yaxis
 
-* Variable Index = 15
+* Variable Index = 16
 * Class Of Variable = Numeric
 * Variable Details = Mean of Body Jerk angular velocity(data from gyroscope) in time domain along Y-axis
 * Variable Unit =  rad per second(rad/s)
@@ -177,7 +177,7 @@ Each record in the tidy dataset are average of each variable for each activity a
 
 ####tBodyGyroJerkMean_Zaxis
 
-* Variable Index = 16
+* Variable Index = 17
 * Class Of Variable = Numeric
 * Variable Details = Mean of Body Jerk angular velocity(data from gyroscope) in time domain along Z-axis
 * Variable Unit =  rad per second(rad/s)
@@ -186,7 +186,7 @@ Each record in the tidy dataset are average of each variable for each activity a
 
 ####tBodyAccelerationMagMean
 
-* Variable Index = 17
+* Variable Index = 18
 * Class Of Variable = Numeric
 * Variable Details = Mean of Magnitude of Body Acceleration in time domain
 * Variable Unit =  metre per second square(unit of g)
@@ -194,7 +194,7 @@ Each record in the tidy dataset are average of each variable for each activity a
 
 ####tGravityAccelerationMagMean
 
-* Variable Index = 18
+* Variable Index = 19
 * Class Of Variable = Numeric
 * Variable Details = Mean of Magnitude of Gravity Acceleration in time domain
 * Variable Unit =  metre per second square(unit of g)
@@ -202,7 +202,7 @@ Each record in the tidy dataset are average of each variable for each activity a
 
 ####tBodyAccelerationJerkMagMean
 
-* Variable Index = 19
+* Variable Index = 20
 * Class Of Variable = Numeric
 * Variable Details = Mean of Magnitude of Body Jerk Acceleration in time domain
 * Variable Unit =  metre per second square(unit of g)
