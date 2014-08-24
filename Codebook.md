@@ -60,463 +60,543 @@ Each record in the tidy dataset are average of each variable for each activity a
 * Variable Index = 2
 * Class Of Variable = Character
 * Variable Details = Name of the  carried out the experiment. 
-* Range Of Values = 1 WALKING  WALKING_UPSTAIRS  WALKING_DOWNSTAIRS  SITTING  STANDING  LAYING
+* Range Of Values =  WALKING , WALKING_UPSTAIRS , WALKING_DOWNSTAIRS , SITTING , STANDING , LAYING
 
 ####tBodyAccelerationMean_Xaxis
 
-* Variable Index = 1
-* Class Of Variable = Integer
-* Variable Details = Id of the Volunteer who carried out the experiment. 
-* Range Of Values = 1 to 30
+* Variable Index = 3
+* Class Of Variable = Numeric
+* Variable Details = Mean of Body Acceleration in time domain along X-axis
+* Variable Unit =  metre per second square(unit of g)
+* Range Of Values = 0.22159824394 to 0.3014610196
 
 ####tBodyAccelerationMean_Yaxis
 
-
-
-
-
+* Variable Index = 4
+* Class Of Variable = Numeric
+* Variable Details = Mean of Body Acceleration in time domain along Y-axis
+* Variable Unit =  metre per second square(unit of g)
+* Range Of Values = -0.040513953 to -0.00130828
 
 ####tBodyAccelerationMean_Zaxis
 
-
-
-
-
+* Variable Index = 5
+* Class Of Variable = Numeric
+* Variable Details = Mean of Body Acceleration in time domain along Z-axis
+* Variable Unit =  metre per second square(unit of g)
+* Range Of Values = -0.1525138995 to -0.075378468
 
 ####tGravityAccelerationMean_Xaxis
 
-
-
-
-
+* Variable Index = 5
+* Class Of Variable = Numeric
+* Variable Details = Mean of Gravity Acceleration in time domain along X-axis
+* Variable Unit =  metre per second square(unit of g)
+* Range Of Values = -0.680043155 to 0.974508732
 
 ####tGravityAccelerationMean_Yaxis
 
-
-
-
-
+* Variable Index = 6
+* Class Of Variable = Numeric
+* Variable Details = Mean of Gravity Acceleration in time domain along Y-axis
+* Variable Unit =  metre per second square(unit of g)
+* Range Of Values = 1 to 1
 
 ####tGravityAccelerationMean_Zaxis
 
-
-
-
-
+* Variable Index = 7
+* Class Of Variable = Numeric
+* Variable Details = Mean of Gravity Acceleration in time domain along Z-axis
+* Variable Unit =  metre per second square(unit of g)
+* Range Of Values = 1 to 1
 
 ####tBodyAccelerationJerkMean_Xaxis
 
-
-
-
-
+* Variable Index = 8
+* Class Of Variable = Numeric
+* Variable Details = Mean of Body Jerk Acceleration in time domain along X-axis
+* Variable Unit =  metre per second square(unit of g)
+* Range Of Values = 1 to 1
 
 ####tBodyAccelerationJerkMean_Yaxis
 
-
-
-
-
+* Variable Index = 9
+* Class Of Variable = Numeric
+* Variable Details = Mean of Body Jerk Acceleration in time domain along Y-axis
+* Variable Unit =  metre per second square(unit of g)
+* Range Of Values = 1 to 1
 
 ####tBodyAccelerationJerkMean_Zaxis
 
 
-
-
-
+* Variable Index = 10
+* Class Of Variable = Numeric
+* Variable Details = Mean of Body Jerk Acceleration in time domain along Z-axis
+* Variable Unit =  metre per second square(unit of g)
+* Range Of Values = 1 to 1
 
 ####tBodyGyroMean_Xaxis
 
-
-
-
-
+* Variable Index = 11
+* Class Of Variable = Numeric
+* Variable Details = Mean of Body angular velocity(data from gyroscope) in time domain along X-axis
+* Variable Unit =  rad per second(rad/s)
+* Range Of Values = 1 to 1
 
 ####tBodyGyroMean_Yaxis
 
-
-
-
+* Variable Index = 12
+* Class Of Variable = Numeric
+* Variable Details = Mean of Body angular velocity(data from gyroscope) in time domain along Y-axis
+* Variable Unit =  rad per second(rad/s)
+* Range Of Values = 1 to 1
 
 ####tBodyGyroMean_Zaxis
 
-
-
-
+* Variable Index = 13
+* Class Of Variable = Numeric
+* Variable Details = Mean of Body angular velocity(data from gyroscope) in time domain along Z-axis
+* Variable Unit =  rad per second(rad/s)
+* Range Of Values = 1 to 1
 
 ####tBodyGyroJerkMean_Xaxis
 
-
-
-
+* Variable Index = 14
+* Class Of Variable = Numeric
+* Variable Details = Mean of Body Jerk angular velocity(data from gyroscope) in time domain along X-axis
+* Variable Unit =  rad per second(rad/s)
+* Range Of Values = 1 to 1
 
 ####tBodyGyroJerkMean_Yaxis
 
-
-
-
+* Variable Index = 15
+* Class Of Variable = Numeric
+* Variable Details = Mean of Body Jerk angular velocity(data from gyroscope) in time domain along Y-axis
+* Variable Unit =  rad per second(rad/s)
+* Range Of Values = 1 to 1
 
 ####tBodyGyroJerkMean_Zaxis
 
-
-
+* Variable Index = 16
+* Class Of Variable = Numeric
+* Variable Details = Mean of Body Jerk angular velocity(data from gyroscope) in time domain along Z-axis
+* Variable Unit =  rad per second(rad/s)
+* Range Of Values = 1 to 1
 
 
 ####tBodyAccelerationMagMean
 
-
-
-
+* Variable Index = 17
+* Class Of Variable = Numeric
+* Variable Details = Mean of Magnitude of Body Acceleration in time domain
+* Variable Unit =  metre per second square(unit of g)
+* Range Of Values = 1 to 1
 
 ####tGravityAccelerationMagMean
 
-
-
-
+* Variable Index = 18
+* Class Of Variable = Numeric
+* Variable Details = Mean of Magnitude of Gravity Acceleration in time domain
+* Variable Unit =  metre per second square(unit of g)
+* Range Of Values = 1 to 1
 
 ####tBodyAccelerationJerkMagMean
 
-
-
-
+* Variable Index = 19
+* Class Of Variable = Numeric
+* Variable Details = Mean of Magnitude of Body Jerk Acceleration in time domain
+* Variable Unit =  metre per second square(unit of g)
+* Range Of Values = 1 to 1
 
 ####tBodyGyroMagMean
 
-
-
-
+* Variable Index = 21
+* Class Of Variable = Numeric
+* Variable Details = Mean of Magnitude of Body angular velocity(data from gyroscope) in time domain
+* Variable Unit =  rad per second(rad/s)
+* Range Of Values = 1 to 1
 
 ####tBodyGyroJerkMagMean
 
-
-
-
+* Variable Index = 22
+* Class Of Variable = Numeric
+* Variable Details = Mean of Magnitude of Body Jerk angular velocity(data from gyroscope) in time domain
+* Variable Unit =  rad per second(rad/s)
+* Range Of Values = 1 to 1
 
 ####fBodyAccelerationMean_Xaxis
 
-
-
-
-
+* Variable Index = 23
+* Class Of Variable = Numeric
+* Variable Details = Mean of Body Acceleration in frequency domain along X-axis
+* Variable Unit =  Hertz (Hz)
+* Range Of Values = 1 to 1
 
 ####fBodyAccelerationMean_Yaxis
 
-
-
-
-
+* Variable Index = 24
+* Class Of Variable = Numeric
+* Variable Details = Mean of Body Acceleration in frequency domain along Y-axis
+* Variable Unit =  Hertz (Hz)
+* Range Of Values = 1 to 1
 
 ####fBodyAccelerationMean_Zaxis
 
-
-
-
+* Variable Index = 25
+* Class Of Variable = Numeric
+* Variable Details = Mean of Body Acceleration in frequency domain along Z-axis
+* Variable Unit =  Hertz (Hz)
+* Range Of Values = 1 to 1
 
 
 ####fBodyAccelerationJerkMean_Xaxis
 
-
-
-
-
+* Variable Index = 26
+* Class Of Variable = Numeric
+* Variable Details = Mean of Body Jerk Acceleration in frequency domain along X-axis
+* Variable Unit =  Hertz (Hz)
+* Range Of Values = 1 to 1
 
 ####fBodyAccelerationJerkMean_Yaxis
 
-
-
-
-
+* Variable Index = 27
+* Class Of Variable = Numeric
+* Variable Details = Mean of Body Jerk Acceleration in frequency domain along Y-axis
+* Variable Unit =  Hertz (Hz)
+* Range Of Values = 1 to 1
 
 ####fBodyAccelerationJerkMean_Zaxis
 
-
-
-
-
+* Variable Index = 28
+* Class Of Variable = Numeric
+* Variable Details = Mean of Body Jerk Acceleration in frequency domain along Z-axis
+* Variable Unit =  Hertz (Hz)
+* Range Of Values = 1 to 1
 
 ####fBodyGyroMean_Xaxis
 
-
-
-
-
+* Variable Index = 29
+* Class Of Variable = Numeric
+* Variable Details = Mean of Body angular velocity(data from gyroscope) in frequency domain along X-axis
+* Variable Unit =  Hertz (Hz)
+* Range Of Values = 1 to 1
 
 ####fBodyGyroMean_Yaxis
 
-
-
-
-
+* Variable Index = 30
+* Class Of Variable = Numeric
+* Variable Details = Mean of Body angular velocity(data from gyroscope) in frequency domain along Y-axis
+* Variable Unit =  Hertz (Hz)
+* Range Of Values = 1 to 1
 
 ####fBodyGyroMean_Zaxis
 
-
-
-
+* Variable Index = 31
+* Class Of Variable = Numeric
+* Variable Details = Mean of Body angular velocity(data from gyroscope) in frequency domain along Z-axis
+* Variable Unit =  Hertz (Hz)
+* Range Of Values = 1 to 1
 
 
 ####fBodyAccelerationMagMean
 
+* Variable Index = 32
+* Class Of Variable = Numeric
+* Variable Details = Mean of Magnitude of Body Acceleration in frequency domain
+* Variable Unit =  Hertz (Hz)
+* Range Of Values = 1 to 1
 
 
+####fBodyAccelerationJerkMagMean
 
+* Variable Index = 33
+* Class Of Variable = Numeric
+* Variable Details = Mean of Magnitude of Body Jerk Acceleration in frequency domain
+* Variable Unit =  Hertz (Hz)
+* Range Of Values = 1 to 1
 
+####fBodyGyroMagMean
 
-####fBodyBodyAccelerationJerkMagMean
+* Variable Index = 34
+* Class Of Variable = Numeric
+* Variable Details = Mean of Magnitude of Body angular velocity(data from gyroscope) in frequency domain
+* Variable Unit =  Hertz (Hz)
+* Range Of Values = 1 to 1
 
+####fBodyGyroJerkMagMean
 
-
-
-
-
-
-####fBodyBodyGyroMagMean
-
-
-
-
-
-
-####fBodyBodyGyroJerkMagMean
-
-
-
-
+* Variable Index = 35
+* Class Of Variable = Numeric
+* Variable Details = Mean of Magnitude of Body Jerk angular velocity(data from gyroscope) in frequency domain
+* Variable Unit =  Hertz (Hz)
+* Range Of Values = 1 to 1
 
 
 ####tBodyAccelerationStd_Xaxis
 
-
-
-
-
+* Variable Index = 36
+* Class Of Variable = Numeric
+* Variable Details = Standard Deviation of Body Acceleration in time domain along X-axis
+* Variable Unit =  metre per second square(unit of g)
+* Range Of Values = 0.22159824394 to 0.3014610196
 
 ####tBodyAccelerationStd_Yaxis
 
-
-
-
-
+* Variable Index = 37
+* Class Of Variable = Numeric
+* Variable Details = Standard deviation of Body Acceleration in time domain along Y-axis
+* Variable Unit =  metre per second square(unit of g)
+* Range Of Values = -0.040513953 to -0.00130828
 
 ####tBodyAccelerationStd_Zaxis
 
-
-
-
-
+* Variable Index = 38
+* Class Of Variable = Numeric
+* Variable Details = Standard deviation of Body Acceleration in time domain along Z-axis
+* Variable Unit =  metre per second square(unit of g)
+* Range Of Values = -0.1525138995 to -0.075378468
 
 ####tGravityAccelerationStd_Xaxis
 
-
-
-
-
-
+* Variable Index = 39
+* Class Of Variable = Numeric
+* Variable Details = Standard deviation of Gravity Acceleration in time domain along X-axis
+* Variable Unit =  metre per second square(unit of g)
+* Range Of Values = -0.680043155 to 0.974508732
 
 ####tGravityAccelerationStd_Yaxis
 
-
-
-
-
+* Variable Index = 40
+* Class Of Variable = Numeric
+* Variable Details = Standard deviation of Gravity Acceleration in time domain along Y-axis
+* Variable Unit =  metre per second square(unit of g)
+* Range Of Values = 1 to 1
 
 ####tGravityAccelerationStd_Zaxis
 
-
-
-
-
+* Variable Index = 41
+* Class Of Variable = Numeric
+* Variable Details = Standard deviation of Gravity Acceleration in time domain along Z-axis
+* Variable Unit =  metre per second square(unit of g)
+* Range Of Values = 1 to 1
 
 ####tBodyAccelerationJerkStd_Xaxis
 
-
-
-
-
+* Variable Index = 42
+* Class Of Variable = Numeric
+* Variable Details = Standard deviation of Body Jerk Acceleration in time domain along X-axis
+* Variable Unit =  metre per second square(unit of g)
+* Range Of Values = 1 to 1
 
 ####tBodyAccelerationJerkStd_Yaxis
 
-
-
-
-
+* Variable Index = 43
+* Class Of Variable = Numeric
+* Variable Details = Standard deviation of Body Jerk Acceleration in time domain along Y-axis
+* Variable Unit =  metre per second square(unit of g)
+* Range Of Values = 1 to 1
 
 ####tBodyAccelerationJerkStd_Zaxis
 
 
-
-
-
+* Variable Index = 44
+* Class Of Variable = Numeric
+* Variable Details = Standard deviation of Body Jerk Acceleration in time domain along Z-axis
+* Variable Unit =  metre per second square(unit of g)
+* Range Of Values = 1 to 1
 
 ####tBodyGyroStd_Xaxis
 
-
-
-
-
+* Variable Index = 45
+* Class Of Variable = Numeric
+* Variable Details = Standard deviation of Body angular velocity(data from gyroscope) in time domain along X-axis
+* Variable Unit =  rad per second(rad/s)
+* Range Of Values = 1 to 1
 
 ####tBodyGyroStd_Yaxis
 
-
-
-
-
+* Variable Index = 46
+* Class Of Variable = Numeric
+* Variable Details = Standard deviation of Body angular velocity(data from gyroscope) in time domain along Y-axis
+* Variable Unit =  rad per second(rad/s)
+* Range Of Values = 1 to 1
 
 ####tBodyGyroStd_Zaxis
 
-
-
-
-
+* Variable Index = 47
+* Class Of Variable = Numeric
+* Variable Details = Standard deviation of Body angular velocity(data from gyroscope) in time domain along Z-axis
+* Variable Unit =  rad per second(rad/s)
+* Range Of Values = 1 to 1
 
 ####tBodyGyroJerkStd_Xaxis
 
-
-
-
-
-
+* Variable Index = 48
+* Class Of Variable = Numeric
+* Variable Details = Standard deviation of Body Jerk angular velocity(data from gyroscope) in time domain along X-axis
+* Variable Unit =  rad per second(rad/s)
+* Range Of Values = 1 to 1
 
 ####tBodyGyroJerkStd_Yaxis
 
-
-
-
-
-
+* Variable Index = 49
+* Class Of Variable = Numeric
+* Variable Details = Standard deviation of Body Jerk angular velocity(data from gyroscope) in time domain along Y-axis
+* Variable Unit =  rad per second(rad/s)
+* Range Of Values = 1 to 1
 
 ####tBodyGyroJerkStd_Zaxis
 
-
-
-
-
+* Variable Index = 50
+* Class Of Variable = Numeric
+* Variable Details = Standard deviation of Body Jerk angular velocity(data from gyroscope) in time domain along Z-axis
+* Variable Unit =  rad per second(rad/s)
+* Range Of Values = 1 to 1
 
 
 ####tBodyAccelerationMagStd
 
-
-
-
-
-
+* Variable Index = 51
+* Class Of Variable = Numeric
+* Variable Details = Standard deviation of Magnitude of Body Acceleration in time domain
+* Variable Unit =  metre per second square(unit of g)
+* Range Of Values = 1 to 1
 
 ####tGravityAccelerationMagStd
 
-
-
-
-
-
+* Variable Index = 52
+* Class Of Variable = Numeric
+* Variable Details = Standard deviation of Magnitude of Gravity Acceleration in time domain
+* Variable Unit =  metre per second square(unit of g)
+* Range Of Values = 1 to 1
 
 ####tBodyAccelerationJerkMagStd
 
-
-
-
-
-
+* Variable Index = 53
+* Class Of Variable = Numeric
+* Variable Details = Standard deviation of Magnitude of Body Jerk Acceleration in time domain
+* Variable Unit =  metre per second square(unit of g)
+* Range Of Values = 1 to 1
 
 ####tBodyGyroMagStd
 
-
-
-
-
-
+* Variable Index = 54
+* Class Of Variable = Numeric
+* Variable Details = Standard deviation of Magnitude of Body angular velocity(data from gyroscope) in time domain
+* Variable Unit =  rad per second(rad/s)
+* Range Of Values = 1 to 1
 
 ####tBodyGyroJerkMagStd
 
-
-
-
-
-
+* Variable Index = 55
+* Class Of Variable = Numeric
+* Variable Details = Standard deviation of Magnitude of Body Jerk angular velocity(data from gyroscope) in time domain
+* Variable Unit =  rad per second(rad/s)
+* Range Of Values = 1 to 1
 
 ####fBodyAccelerationStd_Xaxis
 
-
-
-
-
-
+* Variable Index = 56
+* Class Of Variable = Numeric
+* Variable Details = Standard deviation of Body Acceleration in frequency domain along X-axis
+* Variable Unit =  Hertz (Hz)
+* Range Of Values = 1 to 1
 
 ####fBodyAccelerationStd_Yaxis
 
-
-
-
-
+* Variable Index = 57
+* Class Of Variable = Numeric
+* Variable Details = Standard deviation of Body Acceleration in frequency domain along Y-axis
+* Variable Unit =  Hertz (Hz)
+* Range Of Values = 1 to 1
 
 ####fBodyAccelerationStd_Zaxis
 
-
-
-
-
+* Variable Index = 58
+* Class Of Variable = Numeric
+* Variable Details = Standard deviation of Body Acceleration in frequency domain along Z-axis
+* Variable Unit =  Hertz (Hz)
+* Range Of Values = 1 to 1
 
 
 ####fBodyAccelerationJerkStd_Xaxis
 
-
-
-
-
+* Variable Index = 59
+* Class Of Variable = Numeric
+* Variable Details = Standard deviation of Body Jerk Acceleration in frequency domain along X-axis
+* Variable Unit =  Hertz (Hz)
+* Range Of Values = 1 to 1
 
 ####fBodyAccelerationJerkStd_Yaxis
 
-
-
-
-
+* Variable Index = 60
+* Class Of Variable = Numeric
+* Variable Details = Standard deviation of Body Jerk Acceleration in frequency domain along Y-axis
+* Variable Unit =  Hertz (Hz)
+* Range Of Values = 1 to 1
 
 ####fBodyAccelerationJerkStd_Zaxis
 
-
-
-
-
+* Variable Index = 61
+* Class Of Variable = Numeric
+* Variable Details = Standard deviation of Body Jerk Acceleration in frequency domain along Z-axis
+* Variable Unit =  Hertz (Hz)
+* Range Of Values = 1 to 1
 
 ####fBodyGyroStd_Xaxis
 
-
-
-
-
+* Variable Index = 62
+* Class Of Variable = Numeric
+* Variable Details = Standard deviation of Body angular velocity(data from gyroscope) in frequency domain along X-axis
+* Variable Unit =  Hertz (Hz)
+* Range Of Values = 1 to 1
 
 ####fBodyGyroStd_Yaxis
 
-
-
-
-
+* Variable Index = 63
+* Class Of Variable = Numeric
+* Variable Details = Standard deviation of Body angular velocity(data from gyroscope) in frequency domain along Y-axis
+* Variable Unit =  Hertz (Hz)
+* Range Of Values = 1 to 1
 
 ####fBodyGyroStd_Zaxis
 
-
-
-
+* Variable Index = 64
+* Class Of Variable = Numeric
+* Variable Details = Standard deviation of Body angular velocity(data from gyroscope) in frequency domain along Z-axis
+* Variable Unit =  Hertz (Hz)
+* Range Of Values = 1 to 1
 
 
 ####fBodyAccelerationMagStd
 
+* Variable Index = 65
+* Class Of Variable = Numeric
+* Variable Details = Standard deviation of Magnitude of Body Acceleration in frequency domain
+* Variable Unit =  Hertz (Hz)
+* Range Of Values = 1 to 1
 
 
+####fBodyAccelerationJerkMagStd
 
+* Variable Index = 66
+* Class Of Variable = Numeric
+* Variable Details = Standard deviation of Magnitude of Body Jerk Acceleration in frequency domain
+* Variable Unit =  Hertz (Hz)
+* Range Of Values = 1 to 1
 
+####fBodyGyroMagStd
 
-####fBodyBodyAccelerationJerkMagStd
+* Variable Index = 67
+* Class Of Variable = Numeric
+* Variable Details = Standard deviation of Magnitude of Body angular velocity(data from gyroscope) in frequency domain
+* Variable Unit =  Hertz (Hz)
+* Range Of Values = 1 to 1
 
+####fBodyGyroJerkMagStd
 
-
-
-
-
-####fBodyBodyGyroMagStd
-
-
-
-
-
-
-####fBodyBodyGyroJerkMagStd
+* Variable Index = 68
+* Class Of Variable = Numeric
+* Variable Details = Standard deviation of Magnitude of Body Jerk angular velocity(data from gyroscope) in frequency domain
+* Variable Unit =  Hertz (Hz)
+* Range Of Values = 1 to 1
