@@ -34,7 +34,7 @@ Also the magnitude of these three-dimensional signals were calculated using the 
 Finally a Fast Fourier Transform (FFT) was applied to some of these signals producing fBodyAcc-XYZ, fBodyAccJerk-XYZ, fBodyGyro-XYZ, 
 fBodyAccJerkMag, fBodyGyroMag, fBodyGyroJerkMag. (Note the 'f' to indicate frequency domain signals). 
 
-These signals were used to estimate variables of the 561 variable feature vector 
+These signals were used to estimate variables of the 561 variable feature vector.Features are normalized and bounded within [-1,1].
 
 
 ===================================================================
@@ -44,35 +44,30 @@ Variables which are mean and StandardDeviation of the measurements are included 
 Each record in the tidy dataset are average of each variable for each activity and each subject. 
 
 ===================================================================
-###Following is the list of the column fields(variables) of the dataset.
+###Following are the description of the column fields(variables) of the dataset.
+
+
 
 ####Subject_Id
 
-
-
-
-
-
-####Activity_Id
-
-
-
-
-
+*Variable Index = 1
+*Class Of Variable = Integer
+*Variable Details = Id of the Volunteer who carried out the experiment. 
+*Range Of Values = 1 to 30
 
 ####Activity_Label
 
-
-
-
-
+*Variable Index = 2
+*Class Of Variable = Character
+*Variable Details = Name of the  carried out the experiment. 
+*Range Of Values = 1 WALKING  WALKING_UPSTAIRS  WALKING_DOWNSTAIRS  SITTING  STANDING  LAYING
 
 ####tBodyAccelerationMean_Xaxis
 
-
-
-
-
+*Variable Index = 1
+*Class Of Variable = Integer
+*Variable Details = Id of the Volunteer who carried out the experiment. 
+*Range Of Values = 1 to 30
 
 ####tBodyAccelerationMean_Yaxis
 
